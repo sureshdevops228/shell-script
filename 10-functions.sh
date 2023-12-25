@@ -21,7 +21,7 @@ elase
 
 yum install mysql -y
 
-VALIDATE $? "Installing MYSQL"
+VALIDATE $? "Installing MYSQL"  # for the function we are giving Inputs
 
 yum install git -y
 
